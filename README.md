@@ -1,3 +1,5 @@
+This fork is created to let the library use with Swift2.3
+
 # SwiftEventBus
 
 Allows publish-subscribe-style communication between components without requiring the components to explicitly be aware of each other
